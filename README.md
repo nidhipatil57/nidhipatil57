@@ -63,6 +63,11 @@ An AI-powered Tech Assistant that decodes your technical potential, designs your
 A real-time, AI-driven security operations center that monitors behavior, detects automated scripts, and deploys honeypots to protect genuine passengers.
 
 ---
+
+
+### 🌟 [NutriBloom](https://github.com/nidhipatil57/NutriBloom)
+
+NutriBloom is a full-stack nutrition tracking web app that goes far beyond simple calorie counting. It helps users search recipes, plan weekly meals, log food intake, auto-generate grocery lists, and receive AI-powered insights
 <br>
 
 ## 🌐 Socials:

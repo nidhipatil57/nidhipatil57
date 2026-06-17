@@ -46,17 +46,25 @@ Hackathons<br>
 
 ## 🚀 Featured Projects
 
+
+### 🌟 [Nexora](https://github.com/nidhipatil57/Nexora)
+
+An AI-powered Tech Assistant that decodes your technical potential, designs your elite roadmap, and guides you toward the top 1% of the industry.
+
+
+
+### 🌟 [NutriBloom](https://github.com/nidhipatil57/NutriBloom)
+
+NutriBloom is a full-stack nutrition tracking web app that goes far beyond simple calorie counting. It helps users search recipes, plan weekly meals, log food intake, auto-generate grocery lists, and receive AI-powered insights
+<br>
+
+
 ### 📝 [NoteNest](https://github.com/nidhipatil57/NoteNest)
 
 A platform designed to make learning smarter and more effective for students. Helps students turn notes efficiently into quizzes making learning easier and fun.
 
 ---
 
-### 🌟 [Nexora](https://github.com/nidhipatil57/Nexora)
-
-An AI-powered Tech Assistant that decodes your technical potential, designs your elite roadmap, and guides you toward the top 1% of the industry.
-
----
 
 ### 🚆 [Smart Tatkal Guardian](https://github.com/nidhipatil57/Smart-Tatkal-Guardian)
 
@@ -65,10 +73,6 @@ A real-time, AI-driven security operations center that monitors behavior, detect
 ---
 
 
-### 🌟 [NutriBloom](https://github.com/nidhipatil57/NutriBloom)
-
-NutriBloom is a full-stack nutrition tracking web app that goes far beyond simple calorie counting. It helps users search recipes, plan weekly meals, log food intake, auto-generate grocery lists, and receive AI-powered insights
-<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nidhi-patil-b726a4376) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nidhipatil203@gmail.com) 

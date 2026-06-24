@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=ff6b6b&colorEnd=b38eb4&height=200&section=header&text=Hi%2C+I%27m+Nidhi%21%F0%9F%91%8B&fontSize=30&fontColor=ffffff&animation=waving&gradientDirection=horizontal&parallax=true&wavePosition=19&waveAmplitude=47&waveSpeed=60&flipWave=false&textAlignX=50&textAlignY=61&rtl=24&rtr=24&rbr=0&rbl=0" />
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:FF6FD8&height=250&section=header&text=Nidhi%20Patil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60"/>
+</p>
 </div>
 
 

@@ -29,24 +29,44 @@ Hackathons<br>
 
 💡<b>"I believe in learning by building real-world projects."</b>
 
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=2&alignment=center&bgSolidColor=CCCCCC&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" alt="Divider" />
-</div>
 
+<br>
 
 # 💻 Tech Stacks:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <br>
 
-# 📊 GitHub Stats:
+
+
+# 📊 GitHub Stats:  
+
+<div align="center">
+
 ![](https://github-readme-stats.shion.dev/api?username=nidhipatil57&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=nidhipatil57&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nidhipatil57&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
+</div>
+
+# 📊 Contribution Graph:  
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhipatil57&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
 
 ## 🚀 Featured Projects
+
+
+### ✨ [NovaLife](https://github.com/nidhipatil57/NovaLife)
+
+NovaLife is an AI-powered Productivity Operating System designed to act as an intelligent digital Chief-of-Staff. Instead of waiting for users to manually organize their day, NovaLife continuously understands priorities, analyzes deadlines, predicts scheduling conflicts, and creates personalized execution strategies.
 
 
 ### 🌟 [Nexora](https://github.com/nidhipatil57/Nexora)
@@ -54,8 +74,13 @@ Hackathons<br>
 An AI-powered Tech Assistant that decodes your technical potential, designs your elite roadmap, and guides you toward the top 1% of the industry.
 
 
+### 🏠 [HomeVerse](https://github.com/nidhipatil57/HomeVerse)
 
-### 🌟 [NutriBloom](https://github.com/nidhipatil57/NutriBloom)
+A Community OS for apartments, hostels, PGs, and gated communities. Smart visitor management, trusted services, payments, complaints, marketplace, and community engagement—all in one platform.
+
+
+
+### 🍎 [NutriBloom](https://github.com/nidhipatil57/NutriBloom)
 
 NutriBloom is a full-stack nutrition tracking web app that goes far beyond simple calorie counting. It helps users search recipes, plan weekly meals, log food intake, auto-generate grocery lists, and receive AI-powered insights
 <br>
@@ -68,12 +93,6 @@ A platform designed to make learning smarter and more effective for students. He
 ---
 
 
-### 🚆 [Smart Tatkal Guardian](https://github.com/nidhipatil57/Smart-Tatkal-Guardian)
-
-A real-time, AI-driven security operations center that monitors behavior, detects automated scripts, and deploys honeypots to protect genuine passengers.
-
----
-
 
 
 ## 🌐 Socials:
@@ -83,4 +102,9 @@ A real-time, AI-driven security operations center that monitors behavior, detect
 ---
 
 
+<br><br>
+
+<div align="center">
+  <i>~Building today for a better tomorrow!</i>💕
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

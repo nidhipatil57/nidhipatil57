@@ -9,6 +9,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=CE9AD6&center=true&vCenter=true&width=435&height=30&lines=AI%20DS%20Student%20%40%20VESIT" alt="Typing SVG" />
 </div>
+<br>
 
 
 
@@ -112,8 +113,11 @@ A platform designed to make learning smarter and more effective for students. He
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nidhi.patil_77) 
 ---
 
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nidhipatil57&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<br><br>
 
 <div align="center">
   <i>~Building today for a better tomorrow!</i>💕

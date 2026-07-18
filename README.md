@@ -1,4 +1,5 @@
 <div align="center">
+  
   <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:FF6FD8&height=300&section=header&text=Nidhi%20Patil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=50"/>
 </p>
@@ -9,21 +10,33 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=CE9AD6&center=true&vCenter=true&width=435&height=30&lines=AI%20DS%20Student%20%40%20VESIT" alt="Typing SVG" />
 </div>
 
+
+
 ## 👩‍💻About Me
 
-🎓 First-Year B.Tech Student pursuing Artificial Intelligence & Data Science
+🎓 I'm Nidhi, a second-year B.Tech student in Artificial Intelligence and Data Science at Vivekanand Education Society's Institute of Technology (VESIT), Mumbai.
+An aspiring Software Developer passionate about building impactful web applications and solving real-world problems.
 
-🌱 <b>Currently learning:</b>
+I'm currently strengthening my skills in Java, Data Structures & Algorithms, and Full-Stack Web Development while exploring Machine Learning. I enjoy building projects, participating in hackathons, and solving real-world problems through technology.
 
-Java <br>
+My goal is to become a software engineer who builds reliable, scalable, and user-focused applications that create real-world impact. I'm actively seeking internship and open-source opportunities where I can contribute, collaborate, and continue growing as a developer.
+
+
+<hr>
+
+🌱 <b>Currently Learning:</b>
+
+Java<br>
 Data Structures & Algorithms<br>
 Web Development<br>
-Artificial Intelligence & Machine Learning<br>
+Artificial Intelligence and Machine Learning<br>
+
 
 🚀 <b>Interested in:</b>
 
 Software Development<br>
 AI Applications<br>
+Data Science<br>
 Open Source<br>
 Hackathons<br>
 
@@ -63,21 +76,19 @@ Hackathons<br>
 
 ## 🚀 Featured Projects
 
+### 🏠 [HomeVerse](https://github.com/nidhipatil57/HomeVerse)
 
-### ✨ [NovaLife](https://github.com/nidhipatil57/NovaLife)
-
-NovaLife is an AI-powered Productivity Operating System designed to act as an intelligent digital Chief-of-Staff. Instead of waiting for users to manually organize their day, NovaLife continuously understands priorities, analyzes deadlines, predicts scheduling conflicts, and creates personalized execution strategies.
+A Community OS for apartments, hostels, PGs, and gated communities. Smart visitor management, trusted services, payments, complaints, marketplace, and community engagement—all in one platform.
 
 
 ### 🌟 [Nexora](https://github.com/nidhipatil57/Nexora)
 
 An AI-powered Tech Assistant that decodes your technical potential, designs your elite roadmap, and guides you toward the top 1% of the industry.
 
+ 
+### ✨ [NovaLife](https://github.com/nidhipatil57/NovaLife)
 
-### 🏠 [HomeVerse](https://github.com/nidhipatil57/HomeVerse)
-
-A Community OS for apartments, hostels, PGs, and gated communities. Smart visitor management, trusted services, payments, complaints, marketplace, and community engagement—all in one platform.
-
+NovaLife is an AI-powered Productivity Operating System designed to act as an intelligent digital Chief-of-Staff. Instead of waiting for users to manually organize their day, NovaLife continuously understands priorities, analyzes deadlines, predicts scheduling conflicts, and creates personalized execution strategies.
 
 
 ### 🍎 [NutriBloom](https://github.com/nidhipatil57/NutriBloom)

@@ -12,11 +12,11 @@
 
 ## 👩‍💻 About Me
 
-🎓 I'm **Nidhi**, a second-year B.Tech student in **Artificial Intelligence and Data Science** at **Vivekanand Education Society's Institute of Technology (VESIT), Mumbai**.
+🎓 I'm **Nidhi Patil**, a second-year B.Tech student in **Artificial Intelligence and Data Science** at **Vivekanand Education Society's Institute of Technology (VESIT), Mumbai**.
 
 I'm currently strengthening my skills in **Java, Data Structures & Algorithms, and Full-Stack Web Development** while exploring **Artificial Intelligence & Machine Learning**. I enjoy building projects, participating in hackathons, and solving real-world problems through technology.
 
-I have built 5+ Full Stack Projects and participated in 15+ hackathons. I have been a finalist in a hackathon and a semi finalist in a National Level Hackathon. I was the best UI/UX winner in a a hackathon. I have contributed to an Open Source Project - InboxOS.
+I have built 5+ Full Stack Projects and participated in 15+ hackathons. I have been a finalist in a hackathon and a semi finalist in a National Level Hackathon. I was the best UI/UX winner in a solo hackathon. I have contributed to an Open Source Project - InboxOS.
 
 My goal is to become a software engineer who builds **reliable, scalable, and user-focused applications** that create real-world impact. I'm actively seeking **internship and open-source opportunities** where I can contribute, collaborate, and continue growing as a developer.
 

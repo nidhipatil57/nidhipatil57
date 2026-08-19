@@ -1,15 +1,8 @@
 <div align="center">
-  
-  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:FF6FD8&height=300&section=header&text=Nidhi%20Patil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=50"/>
-</p>
-</div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=140&section=header&text=Nidhi%20Patil&fontSize=54&fontColor=FFFFFF&fontAlignY=37&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=65&descSize=17&descColor=58A6FF"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=CE9AD6&center=true&vCenter=true&width=435&height=30&lines=AI%20DS%20Student%20%40%20VESIT" alt="Typing SVG" />
 </div>
-<br>
 
 
 <div align="center">
@@ -23,7 +16,7 @@
 
 I'm currently strengthening my skills in **Java, Data Structures & Algorithms, and Full-Stack Web Development** while exploring **Artificial Intelligence & Machine Learning**. I enjoy building projects, participating in hackathons, and solving real-world problems through technology.
 
-I have built 5+ Full Stack Projects and participated in 15+ hackathons. I have been a finalist in one hackathon and a semi finalist in a National Level Hackathon.
+I have built 5+ Full Stack Projects and participated in 15+ hackathons. I have been a finalist in a hackathon and a semi finalist in a National Level Hackathon. I was the best UI/UX winner in a a hackathon. I have contributed to an Open Source Project - InboxOS.
 
 My goal is to become a software engineer who builds **reliable, scalable, and user-focused applications** that create real-world impact. I'm actively seeking **internship and open-source opportunities** where I can contribute, collaborate, and continue growing as a developer.
 
@@ -36,25 +29,25 @@ My goal is to become a software engineer who builds **reliable, scalable, and us
 ### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css" height="55"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css" height="45"/>
 </p>
 
 ### 🌐 Web Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite" height="55"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite" height="45"/>
 </p>
 
 ### 🗄️ Databases & Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" height="55"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" height="45"/>
 </p>
 
 ### ⚙️ Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,gcp" height="55"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,gcp" height="45"/>
 </p>
 
 ---
@@ -168,12 +161,12 @@ My goal is to become a software engineer who builds **reliable, scalable, and us
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/nidhipatil57/">
+<a href="https://leetcode.com/u/Nidhi_57/">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="42" height="42" alt="LeetCode"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://instagram.com/nidhi.patil_77">
+<a href="https://www.instagram.com/nidhi.patil_77">
   <img src="https://img.icons8.com/fluency/64/instagram-new.png" width="42" height="42" alt="Instagram"/>
 </a>
 

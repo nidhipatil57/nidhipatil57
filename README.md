@@ -80,16 +80,11 @@ My goal is to become a software engineer who builds **reliable, scalable, and us
 </tr>
 
 <tr>
-<td><b>🍎 <a href="https://github.com/nidhipatil57/NutriBloom">NutriBloom</a></b></td>
-<td>A full-stack nutrition tracking web app that helps users search recipes, plan weekly meals, log food intake, auto-generate grocery lists, and receive AI-powered insights.</td>
-<td align="center">-</td>
+<td><b>📝 <a href="https://github.com/nidhipatil57/LegalQA">LegalQA</a></b></td>
+<td>An intelligent legal document analysis platform that helps law firms and legal teams review contracts, detect risks, compare clauses, answer questions using AI, and build institutional legal knowledge.</td>
+<td align="center"><a href="https://legal-qa-sigma.vercel.app/"><b>↗</b></a></td>  
 </tr>
 
-<tr>
-<td><b>📝 <a href="https://github.com/nidhipatil57/NoteNest">NoteNest</a></b></td>
-<td>A platform designed to make learning smarter and more effective by helping students turn notes into quizzes, making learning easier and fun.</td>
-<td align="center">-</td>
-</tr>
 
 </table>
 

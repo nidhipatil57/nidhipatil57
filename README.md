@@ -1,7 +1,7 @@
 <div align="center">
   
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:FF6FD8&height=300&section=header&text=Nidhi%20Patil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:FF6FD8&height=300&section=header&text=Nidhi%20Patil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=50"/>
 </p>
 </div>
 
@@ -12,114 +12,179 @@
 <br>
 
 
-
-## 👩‍💻About Me
-
-🎓 I'm Nidhi, a second-year B.Tech student in Artificial Intelligence and Data Science at Vivekanand Education Society's Institute of Technology (VESIT), Mumbai.
-An aspiring Software Developer passionate about building impactful web applications and solving real-world problems.
-
-I'm currently strengthening my skills in Java, Data Structures & Algorithms, and Full-Stack Web Development while exploring Machine Learning. I enjoy building projects, participating in hackathons, and solving real-world problems through technology.
-
-My goal is to become a software engineer who builds reliable, scalable, and user-focused applications that create real-world impact. I'm actively seeking internship and open-source opportunities where I can contribute, collaborate, and continue growing as a developer.
-
-
-<hr>
-
-🌱 <b>Currently Learning:</b>
-
-Java<br>
-Data Structures & Algorithms<br>
-Web Development<br>
-Artificial Intelligence and Machine Learning<br>
-
-
-🚀 <b>Interested in:</b>
-
-Software Development<br>
-AI Applications<br>
-Data Science<br>
-Open Source<br>
-Hackathons<br>
-
-💡<b>"I believe in learning by building real-world projects."</b>
-
-
-<br>
-
-# 💻 Tech Stacks:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-<br>
-
-
-
-# 📊 GitHub Stats:  
-
 <div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=nidhipatil57&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nidhipatil57&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nidhipatil57&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br>
-</div>
-
-# 📊 Contribution Graph:  
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhipatil57&theme=tokyo-night&hide_border=true"/>
-
 </div>
 
 ---
 
+## 👩‍💻 About Me
+
+🎓 I'm **Nidhi**, a second-year B.Tech student in **Artificial Intelligence and Data Science** at **Vivekanand Education Society's Institute of Technology (VESIT), Mumbai**.
+
+I'm currently strengthening my skills in **Java, Data Structures & Algorithms, and Full-Stack Web Development** while exploring **Artificial Intelligence & Machine Learning**. I enjoy building projects, participating in hackathons, and solving real-world problems through technology.
+
+I have built 5+ Full Stack Projects and participated in 15+ hackathons. I have been a finalist in one hackathon and a semi finalist in a National Level Hackathon.
+
+My goal is to become a software engineer who builds **reliable, scalable, and user-focused applications** that create real-world impact. I'm actively seeking **internship and open-source opportunities** where I can contribute, collaborate, and continue growing as a developer.
+
+- 🌱 **Currently Learning:** Java, Data Structures & Algorithms, Web Development, RAG Systems, Artificial Intelligence & Machine Learning
+- 🚀 **Interested In:** Software Development, AI Applications, Data Science, Open Source
+
+---
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css" height="55"/>
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite" height="55"/>
+</p>
+
+### 🗄️ Databases & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" height="55"/>
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,gcp" height="55"/>
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
-### 🏠 [HomeVerse](https://github.com/nidhipatil57/HomeVerse)
+<table>
+<tr>
+<th width="22%">Project</th>
+<th width="68%">Description</th>
+<th width="10%" align="center">Live</th>
+</tr>
 
-A Community OS for apartments, hostels, PGs, and gated communities. Smart visitor management, trusted services, payments, complaints, marketplace, and community engagement—all in one platform.
+<tr>
+<td><b>🏠 <a href="https://github.com/nidhipatil57/HomeVerse">HomeVerse</a></b></td>
+<td>A Community OS for apartments, hostels, PGs, and gated communities. Smart visitor management, trusted services, payments, complaints, marketplace, and community engagement — all in one platform.</td>
+<td align="center"><a href="https://home-verse-sooty.vercel.app/"><b>↗</b></a></td>
+</tr>
 
+<tr>
+<td><b>🌟 <a href="https://github.com/nidhipatil57/Nexora">Nexora</a></b></td>
+<td>An AI-powered Tech Assistant that decodes your technical potential, designs your elite roadmap, and guides you toward the top 1% of the industry.</td>
+<td align="center"><a href="https://nexora-phi-umber.vercel.app/"><b>↗</b></a></td>
+</tr>
 
-### 🌟 [Nexora](https://github.com/nidhipatil57/Nexora)
+<tr>
+<td><b>✨ <a href="https://github.com/nidhipatil57/NovaLife">NovaLife</a></b></td>
+<td>An AI-powered Productivity Operating System designed to act as an intelligent digital Chief-of-Staff. It understands priorities, analyzes deadlines, predicts scheduling conflicts, and creates personalized execution strategies.</td>
+<td align="center"><a href="https://novalife-173999487458.asia-south1.run.app/"><b>↗</b></a></td>
+</tr>
 
-An AI-powered Tech Assistant that decodes your technical potential, designs your elite roadmap, and guides you toward the top 1% of the industry.
+<tr>
+<td><b>🍎 <a href="https://github.com/nidhipatil57/NutriBloom">NutriBloom</a></b></td>
+<td>A full-stack nutrition tracking web app that helps users search recipes, plan weekly meals, log food intake, auto-generate grocery lists, and receive AI-powered insights.</td>
+<td align="center">-</td>
+</tr>
 
- 
-### ✨ [NovaLife](https://github.com/nidhipatil57/NovaLife)
+<tr>
+<td><b>📝 <a href="https://github.com/nidhipatil57/NoteNest">NoteNest</a></b></td>
+<td>A platform designed to make learning smarter and more effective by helping students turn notes into quizzes, making learning easier and fun.</td>
+<td align="center">-</td>
+</tr>
 
-NovaLife is an AI-powered Productivity Operating System designed to act as an intelligent digital Chief-of-Staff. Instead of waiting for users to manually organize their day, NovaLife continuously understands priorities, analyzes deadlines, predicts scheduling conflicts, and creates personalized execution strategies.
-
-
-### 🍎 [NutriBloom](https://github.com/nidhipatil57/NutriBloom)
-
-NutriBloom is a full-stack nutrition tracking web app that goes far beyond simple calorie counting. It helps users search recipes, plan weekly meals, log food intake, auto-generate grocery lists, and receive AI-powered insights
-<br>
-
-
-### 📝 [NoteNest](https://github.com/nidhipatil57/NoteNest)
-
-A platform designed to make learning smarter and more effective for students. Helps students turn notes efficiently into quizzes making learning easier and fun.
+</table>
 
 ---
 
+## 🏆 Achievements & Highlights
 
+- 🏆 **Hackathons** - participated in 15+ hackathons
+  - 🥇 **Syrus** — Finalist among **300+ participants**
+  - 🏆 **UniMerge 1.0** — **UI/UX Winner**
+  - 🏅 **FarAway 2026** — National Level Hackathon **Semi-Finalist** among **11,000+ participants**
 
+- 💻 **Multiple Full-Stack Projects** — Designed and developed several complete web applications.
+- 🤖 **AI & ML Exploration** — Continuously exploring Artificial Intelligence and Machine Learning applications.
+- 🚀 **Project-Based Learning** — Learning new technologies by building practical, real-world projects.
+- 🧠 **Problem Solving** — Actively strengthening Data Structures & Algorithms through coding practice.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nidhi-patil-b726a4376) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nidhipatil203@gmail.com) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/nidhipatil57/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nidhi.patil_77) 
 ---
+## ⚡ What I Build
 
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nidhipatil57&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+- 🌐 **Full-Stack Web Applications:** Web applications using vibe coding.
+- 🤖 **AI & LLM Integrations:** Embedding Generative AI models and intelligent features into applications.
+- 🗄️ **Backend Systems & APIs:** Authentication, database systems, and secure backend architectures.
+- 💻 **Problem Solving:** Strengthening Data Structures & Algorithms through consistent coding practice.
 
+---
+## 📊 GitHub Analytics
 
 <div align="center">
-  <i>~Building today for a better tomorrow!</i>💕
+
+<img src="https://github-readme-stats.shion.dev/api?username=nidhipatil57&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" height="160"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nidhipatil57&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160"/>
+
+<br>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=nidhipatil57&theme=github_dark_dimmed&hide_border=true" />
+
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhipatil57&theme=github-dark&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:nidhipatil203@gmail.com">
+  <img src="https://img.icons8.com/color/64/gmail-new.png" width="42" height="42" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/nidhi-patil-b726a4376">
+  <img src="https://img.icons8.com/color/64/linkedin.png" width="42" height="42" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/nidhipatil57">
+  <img src="https://img.icons8.com/glyph-neue/64/FFFFFF/github.png" width="42" height="42" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/nidhipatil57/">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="42" height="42" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/nidhi.patil_77">
+  <img src="https://img.icons8.com/fluency/64/instagram-new.png" width="42" height="42" alt="Instagram"/>
+</a>
+
+</p>
+
+<br>
+
+<div align="center">
+
+### 💡 *"I believe in learning by building real-world projects."*
+
+~ Building today for a better tomorrow! 💕
+
+</div>

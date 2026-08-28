@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 I'm **Nidhi Patil**, a second-year B.Tech student in **Artificial Intelligence and Data Science** at **Vivekanand Education Society's Institute of Technology (VESIT), Mumbai**.
+🎓 I'm **Nidhi Patil**, a second-year B.Tech student in **Artificial Intelligence and Data Science** at **Vivekanand Education Society's Institute of Technology (VESIT), Mumbai**. First Year **CGPA : 9.31**
 
 I'm currently strengthening my skills in **Java, Data Structures & Algorithms, and Full-Stack Web Development** while exploring **Artificial Intelligence & Machine Learning**. I enjoy building projects, participating in hackathons, and solving real-world problems through technology.
 

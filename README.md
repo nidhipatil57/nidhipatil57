@@ -107,14 +107,6 @@ My goal is to become a software engineer who builds **reliable, scalable, and us
 - 🧠 **Problem Solving** — Actively strengthening Data Structures & Algorithms through coding practice.
 
 ---
-## ⚡ What I Build
-
-- 🌐 **Full-Stack Web Applications:** Web applications using vibe coding.
-- 🤖 **AI & LLM Integrations:** Embedding Generative AI models and intelligent features into applications.
-- 🗄️ **Backend Systems & APIs:** Authentication, database systems, and secure backend architectures.
-- 💻 **Problem Solving:** Strengthening Data Structures & Algorithms through consistent coding practice.
-
----
 ## 📊 GitHub Analytics
 
 <div align="center">

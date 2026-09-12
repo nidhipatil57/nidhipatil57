@@ -18,11 +18,9 @@
 
 🎓 I'm **Nidhi Patil**, a second-year B.Tech student in **Artificial Intelligence and Data Science** at **Vivekanand Education Society's Institute of Technology (VESIT), Mumbai**. First Year **CGPA : 9.31**
 
-I'm currently strengthening my skills in **Java, Data Structures & Algorithms, and Full-Stack Web Development** while exploring **Artificial Intelligence & Machine Learning**. I enjoy building projects, participating in hackathons, and solving real-world problems through technology.
+I enjoy building projects, participating in hackathons, and solving real-world problems through technology. My goal is to become a software engineer who builds **reliable, scalable, and user-focused applications** that create real-world impact. I'm actively seeking **internship and open-source opportunities** where I can contribute, collaborate, and continue growing as a developer.
 
-I have built 5+ Full Stack Projects and participated in 15+ hackathons. I have been a finalist in a hackathon and a semi finalist in a National Level Hackathon. I was the best UI/UX winner in a solo hackathon. I have contributed to an Open Source Project - InboxOS.
-
-My goal is to become a software engineer who builds **reliable, scalable, and user-focused applications** that create real-world impact. I'm actively seeking **internship and open-source opportunities** where I can contribute, collaborate, and continue growing as a developer.
+I have participated in 15+ hackathons. I have been a finalist in a hackathon and a semi finalist in a National Level Hackathon.
 
 - 🌱 **Currently Learning:** Java, Data Structures & Algorithms, Web Development, RAG Systems, Artificial Intelligence & Machine Learning
 - 🚀 **Interested In:** Software Development, AI Applications, Data Science, Open Source
@@ -101,9 +99,7 @@ My goal is to become a software engineer who builds **reliable, scalable, and us
   - 🏆 **UniMerge 1.0** — **UI/UX Winner**
   - 🏅 **FarAway 2026** — National Level Hackathon **Semi-Finalist** among **11,000+ participants**
 
-- 💻 **Multiple Full-Stack Projects** — Designed and developed several complete web applications.
-- 🤖 **AI & ML Exploration** — Continuously exploring Artificial Intelligence and Machine Learning applications.
-- 🚀 **Project-Based Learning** — Learning new technologies by building practical, real-world projects.
+- 💻 **Multiple Full-Stack Projects** — Designed and developed several complete web applications. Learning new technologies by building practical, real-world projects.
 - 🧠 **Problem Solving** — Actively strengthening Data Structures & Algorithms through coding practice.
 
 ---

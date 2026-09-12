@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=140&section=header&text=Nidhi%20Patil&fontSize=54&fontColor=FFFFFF&fontAlignY=52&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=80&descSize=17&descColor=58A6FF"/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Jr.%20Technical%20Officer%20%40%20AICoLegion&fontSize=32&fontColor=FFFFFF&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Jr.%20Technical%20Officer%20%40%20AICoLegion&fontSize=28&fontColor=FFFFFF&fontAlignY=55"/>
 
 </div>
 
@@ -118,16 +118,6 @@ My goal is to become a software engineer who builds **reliable, scalable, and us
 <br>
 
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=nidhipatil57&theme=github_dark_dimmed&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhipatil57&theme=github-dark&hide_border=true&area=true" />
 
 </div>
 

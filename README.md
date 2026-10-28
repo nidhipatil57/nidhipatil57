@@ -97,11 +97,12 @@ I have participated in 15+ hackathons. I have been a finalist in a hackathon and
 
 - 🏆 **Hackathons** - participated in 15+ hackathons
   - Syrus 7.0 - Winner
-  - Ideathon - Winner
-  - Hack On Track National HAckathon - Top 10 Finalist
+  - ISTE's Ideathon - Winner
+  - Hack On Track National Hackathon - Top 10 Finalist
+  - UniMerge 1.0 - Best UI/UX Winner
   - Far Away National Hackathon - Semi Finalist
   - Syrus 6.0 - Top 6 Finalist
-  - Genesis Hackathon - Semi Finalist
+  - Genesis 2.0 Hackathon - Semi Finalist
 
 - 💻 **Multiple Full-Stack Projects** — Designed and developed several complete web applications. Learning new technologies by building practical, real-world projects.
 - 🧠 **Problem Solving** — Actively strengthening Data Structures & Algorithms through coding practice.
